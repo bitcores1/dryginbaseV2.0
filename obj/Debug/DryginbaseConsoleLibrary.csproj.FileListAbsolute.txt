@@ -1,0 +1,14 @@
+d:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\obj\Debug\ResolveAssemblyReference.cache
+d:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\DCL.dll
+d:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\DCL.pdb
+d:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\obj\Debug\DCL.dll
+d:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\obj\Debug\DCL.pdb
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Core.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Data.DataSetExtensions.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Data.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Windows.Forms.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Xml.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\bin\Debug\System.Xml.Linq.dll
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\obj\Debug\DCL.about_us.resources
+D:\le ngoc cuong\MyProject\lib\DryginbaseConsoleLibrary\DryginbaseConsoleLibrary\obj\Debug\DryginbaseConsoleLibrary.csproj.GenerateResource.Cache

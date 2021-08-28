@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DCL.Xcase">
+    <Position X="2.5" Y="1.5" Width="1.25" />
+    <NestedTypes>
+      <Class Name="DCL.Xcase.HotKeyManager" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>1.0.2\Xml.Element.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DCL.Xcase.HotKeyEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>1.0.2\Xml.Element.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DCL.Xcase.KeyModifiers" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>1.0.2\Xml.Element.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QCgAAEIAAAAACAAAAAAoAAAAAgAAAAIAAAAAAAAhAIA=</HashCode>
+      <FileName>1.0.2\Xml.Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCL.strings.ExcuteString">
+    <Position X="2.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEgAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>1.0.2\Xml.Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCL.DLLIMPORT.HideConsole">
+    <Position X="4.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>1.0.2\Xml.Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="consolas" Size="9" />
+</ClassDiagram>
