@@ -40,7 +40,7 @@ tester
 
 ```xml
 <print>
-  <print>hello,world!<\print>
+  <print>hello,world!</print>
     <read/>
 </print>
 ```
