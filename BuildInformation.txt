@@ -1,5 +1,5 @@
 copyright 2021 by Bitcores Dryginbase , Bitcores
-
+code information:
 build.version = 2.0
 
 build.language = c#
@@ -17,3 +17,9 @@ code activation:
 DCL.Xcase.from = your path;
 DCL.Xcase.index();
 
+
+directory information:
+
+IndexMain = bin\debug\DCL.dll 
+
+RequestDll = All File on bin\debug\
