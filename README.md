@@ -36,4 +36,18 @@ static void main(string[]args)
 ```
 
 
+tester
+
+```xml
+<print>
+  <print>hello,world!<\print>
+    <read/>
+</print>
+```
+output
+```text
+hello world
+```
+
+
 
