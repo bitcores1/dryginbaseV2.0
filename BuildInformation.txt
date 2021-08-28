@@ -1,0 +1,19 @@
+copyright 2021 by Bitcores Dryginbase , Bitcores
+
+build.version = 2.0
+
+build.language = c#
+build.language.ratio = c#.100%
+
+build.namespace.main = DCL
+
+build.class.main = DCL.Xcase
+
+build.void.GetFile = DCL.Xcase.from
+build.void.activation = DCL.Xcase.index
+
+code activation:
+
+DCL.Xcase.from = your path;
+DCL.Xcase.index();
+
